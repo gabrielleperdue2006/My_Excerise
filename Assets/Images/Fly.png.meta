@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: c706addd703374db4a9339d011524264
+guid: f90db7d9a8bd54f01a60d3dd2f4724c4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 944705202554244605
-    second: g_fly_0
-  - first:
-      213: 5288515129560544984
-    second: g_fly_1
-  - first:
-      213: -69212386432605346
-    second: g_fly_2
-  - first:
-      213: -2896660964980031169
-    second: g_fly_3
-  - first:
-      213: -7691557194371801796
-    second: g_fly_4
+      213: 7686585129704783424
+    second: fly_4-removebg-preview_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -125,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: g_fly_0
+      name: fly_4-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 922
-        width: 268
-        height: 58
+        x: 34
+        y: 64
+        width: 438
+        height: 399
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,96 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dfd85bf50644c1d00800000000000000
-      internalID: 944705202554244605
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: g_fly_1
-      rect:
-        serializedVersion: 2
-        x: 539
-        y: 904
-        width: 149
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d63cb69d74946940800000000000000
-      internalID: 5288515129560544984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: g_fly_2
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 922
-        width: 379
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e53a0a483bb1a0ff0800000000000000
-      internalID: -69212386432605346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: g_fly_3
-      rect:
-        serializedVersion: 2
-        x: 1354
-        y: 904
-        width: 118
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f3100a3133efcc7d0800000000000000
-      internalID: -2896660964980031169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: g_fly_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 68
-        width: 1472
-        height: 834
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3d5edbbb79124590800000000000000
-      internalID: -7691557194371801796
+      spriteID: 04e7adf337c3caa60800000000000000
+      internalID: 7686585129704783424
       vertices: []
       indices: 
       edges: []
@@ -248,11 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      g_fly_0: 944705202554244605
-      g_fly_1: 5288515129560544984
-      g_fly_2: -69212386432605346
-      g_fly_3: -2896660964980031169
-      g_fly_4: -7691557194371801796
+      fly_4-removebg-preview_0: 7686585129704783424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

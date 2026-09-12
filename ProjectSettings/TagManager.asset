@@ -44,8 +44,20 @@ TagManager:
   - name: Back
     uniqueID: 1705521071
     locked: 0
-  - name: Play_Mode
+  - name: Middle
     uniqueID: 3371615707
+    locked: 0
+  - name: Front
+    uniqueID: 1647929783
+    locked: 0
+  - name: PlayMode
+    uniqueID: 1216947283
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 3464720033
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 2470976667
     locked: 0
   m_RenderingLayers:
   - Default
